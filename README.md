@@ -148,6 +148,3 @@ gsutil cors set cors.json gs://&lt;your-storage-bucket&gt;
 
 <p>Distributed under the MIT License. See <a href="LICENSE">LICENSE</a> for details.</p>
 
-<div align="center">
-<p>Made by <b>Elizabeth Ann Johny</b></p>
-</div>
